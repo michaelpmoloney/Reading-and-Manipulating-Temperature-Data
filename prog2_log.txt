@@ -1,0 +1,28 @@
+run program2
+Column 226 row 2 temperatrue value was fixed.
+The old value was -1768.00. The new value is   152.10.
+This is an average of the previous and next temps   152.10 and   152.10.
+Column 1126 row 2 temperatrue value was fixed.
+The old value was -1768.00. The new value is   152.00.
+This is an average of the previous and next temps   152.00 and   152.00.
+Column 1451 row 2 temperatrue value was fixed.
+The old value was -1768.00. The new value is   159.45.
+This is an average of the previous and next temps   159.40 and   159.50.
+Column 1613 row 2 temperatrue value was fixed.
+The old value was -1768.00. The new value is   164.60.
+This is an average of the previous and next temps   164.60 and   164.60.
+Column 1627 row 2 temperatrue value was fixed.
+The old value was -1768.00. The new value is   164.80.
+This is an average of the previous and next temps   164.80 and   164.80.
+5 value(s) fixed.
+Enter integer greater than 0 for threshold: asdfs
+
+Enter integer greater than 0 for threshold: 3+3i
+Enter integer greater than 0 for threshold: ff 44
+Enter integer greater than 0 for threshold: 44 44
+Enter integer greater than 0 for threshold: 3
+There are 1419 matches within the given threshold.
+There are a total of 1781 entries.
+The percentage of entries within the threshold is  80.
+your entered threshold was:    3.00000.
+diary off
